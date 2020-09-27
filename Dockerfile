@@ -1,5 +1,5 @@
 # mysql backup image
-FROM alpine:3.9
+FROM alpine:3.12
 
 # install the necessary client
 # the mysql-client must be 10.3.15 or later
